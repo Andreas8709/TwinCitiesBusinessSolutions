@@ -1,0 +1,10 @@
+/*
+	Big Picture by HTML5 UP
+	html5up.net | @ajlkn
+*/
+
+/* Loader */
+
+	body:before, body:after {
+		display: none;
+	}

@@ -1,0 +1,18 @@
+@import 'libs/vars';
+@import 'libs/functions';
+@import 'libs/mixins';
+@import 'libs/vendor';
+@import 'libs/breakpoints';
+
+/*
+	Big Picture by HTML5 UP
+	html5up.net | @ajlkn
+*/
+
+/* Loader */
+
+	body {
+		&:before, &:after {
+			display: none;
+		}
+	}
